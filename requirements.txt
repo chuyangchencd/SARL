@@ -1,0 +1,12 @@
+# Core: evaluation + data loading
+torch
+torchaudio
+numpy
+
+# Building the dataset (preprocessing/)
+soundfile
+scipy
+sofar
+
+# Downloading the released RIRs
+huggingface_hub
